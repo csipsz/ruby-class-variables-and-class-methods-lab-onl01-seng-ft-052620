@@ -34,6 +34,7 @@ class Song
       else 
         hash[item] += 1 
       end 
+    end
   end 
   
   
